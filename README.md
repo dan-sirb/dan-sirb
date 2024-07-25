@@ -1,1 +1,1 @@
-👋 Hi, please see repositories for projects source code and more
+👋 Hi, please see repositories for projects
